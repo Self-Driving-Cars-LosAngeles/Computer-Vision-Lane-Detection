@@ -16,4 +16,6 @@
 * Video and Image processing
 
 
+(https://github.com/Self-Driving-Cars-LosAngeles/Computer-Vision-Lane-Detection/blob/master/solidYellowImageResult.jpg)
+
 Credit: Udacity Self-Driving Car Nanodegree community for providing extensive resources about the topic.
